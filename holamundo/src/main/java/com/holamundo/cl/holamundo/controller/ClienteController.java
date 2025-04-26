@@ -10,6 +10,6 @@ public class ClienteController {
 
     @GetMapping
     public String index() {
-        return "bienvenidos al listado de clientes";
+        return "bienvenidos al listado de super clientes";
     }
 }
